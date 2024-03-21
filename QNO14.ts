@@ -2,5 +2,4 @@
 
 let guestArr: string[] = ["Huzaifa", "Raza", "Ali", "Asad", "Ariyan", "Muzamil"]
 
-guestArr.map((items)=> console.log(` ${items} Your are Invited to dinner`)
-);
+guestArr.map((items)=> console.log(` ${items} Your are Invited to dinner`));
